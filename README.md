@@ -47,6 +47,10 @@ nano scan.py
 python scan.py
 ```
 
+**Output:**
+
+<img src="http://s16.postimg.org/a21wio3k5/Untitled_1.jpg" width="600">
+
 **Have a problem?**
 
 Please open new issue or contact with me via Twitter [@magic_coding](http://www.twitter.com/magic_coding)
