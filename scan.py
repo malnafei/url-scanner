@@ -18,10 +18,6 @@ Learn more how to get VirusTotal API (https://www.virustotal.com/en/documentatio
 """
 Api_Key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
-class Colors:
-	RED = '\033[91m'
-	GREEN = '\033[92m'
-
 def progressbar(it, prefix="", size=60):
 	count = len(it)
 	def _show(_i):
