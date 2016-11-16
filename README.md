@@ -31,7 +31,7 @@ apt-get install git
 ```
 2- install url-scanner program and run:
 ```
-git https://github.com/magic-coding/url-scanner.git
+git clone https://github.com/magic-coding/url-scanner.git
 cp url-scanner/scan.py ~
 ```
 3- Edit `scan.py` and add your virustotal api:
